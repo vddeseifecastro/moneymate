@@ -20,33 +20,33 @@ A modern personal finance PWA built with React. Track income and expenses, manag
 
 ### 🏠 Dashboard — Dark Theme
 
-![Dashboard Dark](URL_IMAGEN_1)
+![Dashboard Dark](https://github.com/user-attachments/assets/85f052f3-0c2e-46d6-985f-d2461791881d)
 
 ### ☀️ Dashboard — Light Theme
 
-![Dashboard Light](URL_IMAGEN_2)
+![Dashboard Light](https://github.com/user-attachments/assets/28a64010-bbb7-4107-a40c-6736a36d11d6)
 
 ### 📋 Transaction History
 
-![History](URL_IMAGEN_3)
+![History](https://github.com/user-attachments/assets/c09646a6-0d4b-4257-964b-10d0629531b9)
 
 ### 📊 Graphics — Expenses
 
-![Graphics Expenses 1](URL_IMAGEN_4)
+![Graphics Expenses 1](https://github.com/user-attachments/assets/61e8f6b4-9312-4114-b401-b9891adbe221)
 
-![Graphics Expenses 2](URL_IMAGEN_5)
+![Graphics Expenses 2](https://github.com/user-attachments/assets/6360d8c1-96f0-4f1a-bd6b-00678009662e)
 
 ### 📈 Graphics — Income
 
-![Graphics Income](URL_IMAGEN_6)
+![Graphics Income](https://github.com/user-attachments/assets/3f865813-63d0-4115-97c1-30f03033a2a1)
 
 ### 📉 Graphics — Trend
 
-![Graphics Trend](URL_IMAGEN_7)
+![Graphics Trend](https://github.com/user-attachments/assets/7d987d3e-b4c5-4e9a-ac42-3e8ae2f63e4f)
 
 ### ➕ New Transaction
 
-![New Transaction](URL_IMAGEN_8)
+![New Transaction](https://github.com/user-attachments/assets/1f9eb67a-8d89-4363-af87-2f41e015c3e9)
 
 ---
 
